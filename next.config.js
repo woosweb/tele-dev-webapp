@@ -4,4 +4,4 @@ const nextConfig = {
     basePath: "/batching-ai-tele-webapp"
 };
 
-export default nextConfig;
+module.exports = nextConfig;
